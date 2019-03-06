@@ -1,4 +1,5 @@
 ## the pipline picture
+![管道图](https://github.com/monkey214207/take-out-food-2018-11-26-7-35-16-442/blob/master/TaskPipLine.png?raw=true)
 ```
 #1 bestCharge()
 输入：
